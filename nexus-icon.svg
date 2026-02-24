@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="8" fill="#0b0b10"/>
+  <defs>
+    <linearGradient id="ng" x1="4" y1="4" x2="28" y2="28">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a0a0b8"/>
+    </linearGradient>
+  </defs>
+  <!-- Faceted prism — 4 triangular faces with depth -->
+  <path d="M16 5L26 16L16 16Z" fill="url(#ng)" opacity="0.85"/>
+  <path d="M16 5L6 16L16 16Z" fill="url(#ng)" opacity="0.55"/>
+  <path d="M26 16L16 27L16 16Z" fill="url(#ng)" opacity="0.65"/>
+  <path d="M6 16L16 27L16 16Z" fill="url(#ng)" opacity="0.35"/>
+</svg>
